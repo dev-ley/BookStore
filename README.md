@@ -19,4 +19,4 @@ StoreBooks é uma livraria online dedicada a livros sobre tecnologia, oferecendo
 1. **Clone este repositório** para o seu ambiente local:
 
    ```bash
-   git clone https://github.com/dev-ley/BookStore.git
+   git clone https://github.com/dev-ley/Storebooks.git
