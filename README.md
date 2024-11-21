@@ -11,5 +11,3 @@
 * CSS
 * SwiperJS
 
-## Screenshots
-
